@@ -1,7 +1,7 @@
-# Telephonic-Server
+# Telephonic-Server-Asterisk
 How to setup telephonic server in linux (Centos)
 
-Telephonic Server Test 
+Telephonic Server Asterisk 
 
  
 
